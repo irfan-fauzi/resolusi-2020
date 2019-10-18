@@ -7,6 +7,9 @@ Resolusi Irfan fauzi di tahun 2020 adalah :
 - menjadi softwere enginner
   ^ javascript dev
   ^ python
+  ^ ruby on rails
+  ^ django
+  ^ swift
 - membuat cloting company 
 - membuat vlog
   ^ jalan ke luar negeri
